@@ -476,10 +476,4 @@ Launch with confidence. Launch with control. Launch with the Pump.Fun Bundler.
 *Remember: Always operate within legal boundaries and respect the rules of the platforms you interact with. This tool is provided for educational and legitimate trading purposes only.*
 
 ## Contact
-
-## Contact
-
-## Contact
-
-## Contact
 Telegram: @teraus111
