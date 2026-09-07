@@ -2,7 +2,7 @@
 
 The ultimate open-source solution for efficient token bundling on Pump.Fun with advanced profile creation and anti-bubble map features.
 
-Discord community: https://discord.gg/solana-scripts
+Discord community: 
 
 Still the best around since 2024.
 
@@ -265,8 +265,8 @@ The `metadata.json` file defines your token's identity on Pump.Fun. Let's make i
   "description": "Compelling description of your token",
   "image": "",
   "showName": true,
-  "twitter": "https://twitter.com/yourproject",
-  "telegram": "https://t.me/yourproject",
+  "twitter": "
+  "telegram": "
   "website": "https://yourproject.com"
 }
 ```
@@ -434,7 +434,7 @@ All sub-wallets, dev wallet, and funder wallet are automatically excluded.
 
 Join our thriving community of traders and launchers:
 
-- **Discord**: [discord.gg/solana-scripts](https://discord.gg/solana-scripts)
+- **Discord**: [discord.gg/solana-scripts](
 - **Telegram**: @benorizz0
 
 
@@ -474,3 +474,12 @@ Launch with confidence. Launch with control. Launch with the Pump.Fun Bundler.
 ---
 
 *Remember: Always operate within legal boundaries and respect the rules of the platforms you interact with. This tool is provided for educational and legitimate trading purposes only.*
+
+## Contact
+
+## Contact
+
+## Contact
+
+## Contact
+Telegram: @teraus111
